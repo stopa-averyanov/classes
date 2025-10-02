@@ -246,9 +246,9 @@ print("Рад знакомству,", name, "!")
 ```py
 print("Сколько будет 9 * 9?")
 
-answer = float(input())
+answer = input()
 
-if answer == 81:
+if answer == "81":
 
     print("Правильно!")
 ```
